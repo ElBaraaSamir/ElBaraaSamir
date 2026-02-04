@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Boxed+Round&size=40&duration=4000&color=a9fef7&center=true&vCenter=true&width=800&height=100&lines=El-Baraa+Radwan;Backend+WEB+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Boxed+Round&size=40&duration=4000&color=a9fef7&center=true&vCenter=true&width=800&height=100&lines=El-Baraa+Samir;Backend+WEB+Developer" />
 </h1>
 
 ## 🚀 About Me
 
 Hey! 👋  
-I'm **El-Baraa Radwan**, a passionate and self-driven **Backend Web Developer**.  
+I'm **El-Baraa Samir**, a passionate and self-driven **Backend Web Developer**.  
 I specialize in building scalable, secure, and modern web applications using **Node.js**, **NestJS**/**ExpressJS**, and **GraphQL**/**RESTful** APIs.  
 I'm always eager to learn, collaborate, and deliver impactful solutions through clean code and powerful architecture.
 
